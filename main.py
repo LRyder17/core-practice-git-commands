@@ -2,8 +2,7 @@ import pytest
 
 
 def always_returns_true():
-    # This is a brand new comment 
-
+    # This is a brand new comment
     return False
 
 
